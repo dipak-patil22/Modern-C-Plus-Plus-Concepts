@@ -1,4 +1,4 @@
-// Modern C++ Concepts.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Multi-threading.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
