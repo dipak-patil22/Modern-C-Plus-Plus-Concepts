@@ -48,7 +48,7 @@ public:
 int main()
 {
 	Base* b = new Derived();
-	b->fun();
-
-	return 0;
+	b->fun();		//without virtual keyword in Base O/P: I am Base fun
+					//without virtual keyword in Base O/P: I am derived  fun
+	return 0;		//It is calling derived fun
 }
